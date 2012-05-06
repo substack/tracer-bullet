@@ -4,6 +4,8 @@ tracer-bullet
 Run node applications with
 [long stack traces](https://github.com/tlrobinson/long-stack-traces).
 
+![tracer bullet](http://substack.net/images/tracer_bullet.png)
+
 example
 =======
 
