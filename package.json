@@ -7,7 +7,7 @@
         "url" : "git://github.com/substack/tracer-bullet.git"
     },
     "bin" : {
-        "tracer-bullet" : "command.js"
+        "tracer-bullet" : "bin/command.js"
     },
     "keywords" : [
         "long",
