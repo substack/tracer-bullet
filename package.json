@@ -1,0 +1,38 @@
+{
+    "name" : "tracer-bullet",
+    "description" : "command to switch on long stack traces",
+    "version" : "0.0.0",
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/substack/tracer-bullet.git"
+    },
+    "bin" : {
+        "tracer-bullet" : "command.js"
+    },
+    "keywords" : [
+        "long",
+        "stack",
+        "trace"
+    ],
+    "directories" : {
+        "test" : "test"
+    },
+    "scripts" : {
+        "test" : "tap test/*.js"
+    },
+    "dependencies" : {
+        "long-stack-traces" : "~0.1.2"
+    },
+    "devDependencies" : {
+        "tap" : "~0.2.4"
+    },
+    "engines" : {
+        "node" : ">=0.4.0"
+    },
+    "license" : "MIT",
+    "author" : {
+        "name" : "James Halliday",
+        "email" : "mail@substack.net",
+        "url" : "http://substack.net"
+    }
+}
