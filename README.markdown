@@ -4,6 +4,8 @@ tracer-bullet
 Run node applications with
 [long stack traces](https://github.com/tlrobinson/long-stack-traces).
 
+[![build status](https://secure.travis-ci.org/substack/tracer-bullet.png)](http://travis-ci.org/substack/tracer-bullet)
+
 ![tracer bullet](http://substack.net/images/tracer_bullet.png)
 
 example
